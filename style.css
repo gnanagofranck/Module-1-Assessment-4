@@ -1,0 +1,24 @@
+
+body {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+h1 {
+    text-align: center;
+}
+table {
+    border: 3px solid black;
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto;
+    background: lightblue;
+}
+tr, td {
+    border: 1px solid gray;
+    padding: 20px;
+    text-align: center;
+}
+footer {
+    text-align: center;
+    color: black;
+}
